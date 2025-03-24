@@ -9,7 +9,7 @@
     "loading-attribute-polyfill": "^2.1.1"
   },
   "devDependencies": {
-    "parcel": "^2.12.0",
+    "parcel": "^2.14.2",
     "sass": "^1.69.7"
   },
   "repository": {
